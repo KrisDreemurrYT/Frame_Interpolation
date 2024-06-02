@@ -8,7 +8,7 @@ RAM: 16GB (best 32GB RAM if you would like to do interpolation to higher framera
 H264 is the most preferred codec to use. X264/X265 are known to be slow at processing higher framerate videos and they are not recommended in most cases. For the best experience, use a higher-end GPU like an GTX 1070/RX 5700 XT and above.
 
 Maximum resolution for each codec:
-H264/X264: 4K
+H264/X264: 4K,
 H265/X265: 8K
 
 # DISCLAIMER
