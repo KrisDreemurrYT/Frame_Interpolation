@@ -46,4 +46,4 @@ And that's it! You're done!
 Tutorials on how to frame blend/sampling:
 [DaVinci](https://www.youtube.com/watch?v=B_4R6m13w6k) /
 [Premiere Pro](https://youtu.be/EQl82Hxn-H4?si=IELH-VBDDdt7rNCA&t=425) /
-[Vegas](https://www.vegascreativesoftware.info/download/file/mediacenter/l2adhc58saef/04WnMMI4o4DGXnL03XlG0InRoX4RM0DR) (**Right click, select switches, choose either Use Project Resample Mode or Force Resample**)
+[Vegas](https://www.vegascreativesoftware.info/download/file/mediacenter/l2adhc58saef/04WnMMI4o4DGXnL03XlG0InRoX4RM0DR) (**Right click the video, select switches, choose either Use Project Resample Mode or Force Resample**)
