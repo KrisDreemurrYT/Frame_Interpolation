@@ -19,7 +19,7 @@ There is no support for Mac or Linux as this application is only for Windows.
 
 # DOWNLOAD
 
-All you have to do is to download [Frame_Interpolation.zip](https://github.com/KrisDreemurrYT/Frame_Interpolation/releases/download/Frame_Interpolation/Frame_Interpolation.zip) on the code section. Extract the zip file into your C: or D: Drive or otherwise there will be issues if you don't.
+All you have to do is to download [Frame_Interpolation.zip](https://github.com/KrisDreemurrYT/Frame_Interpolation/releases/download/Frame_Interpolation/Frame_Interpolation.zip) on the releases section. Extract the zip file into your C: or D: Drive or otherwise there will be issues if you don't.
 
 If you are using a D: drive, please change the python codes via notepad from C: to D:, along with the run.bat file too.
 
