@@ -23,4 +23,4 @@ All you have to do is to download Frame_Interpolation.zip on the code section. E
 
 If you are using a D: drive, please change the python codes via notepad from C: to D:, along with the run.bat file too.
 
-* DO NOT CHANGE ANYTHING IN THE CODE OTHERWISE IT WILL NOT WORK AS INTENDED!
+** DO NOT CHANGE ANYTHING IN THE CODE OTHERWISE IT WILL NOT WORK AS INTENDED! **
